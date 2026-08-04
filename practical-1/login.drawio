@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Login" id="8edrRBIGlDDjTT0hgfNH">
+    <mxGraphModel dx="1471" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student Hub Portal" vertex="1">
+          <mxGeometry height="40" width="300" x="714" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Username" vertex="1">
+          <mxGeometry height="30" width="120" x="434" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Password" vertex="1">
+          <mxGeometry height="30" width="120" x="434" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="30" width="70" x="434" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Clear" vertex="1">
+          <mxGeometry height="30" width="70" x="514" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Back" vertex="1">
+          <mxGeometry height="30" width="70" x="434" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Footer" vertex="1">
+          <mxGeometry height="25" width="900" x="414" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="AJoboGxEwkAjKW4I_HRs-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="560" width="1040" x="350" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

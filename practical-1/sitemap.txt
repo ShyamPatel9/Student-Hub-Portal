@@ -1,0 +1,29 @@
+StudentHub Portal
+│
+├── Home
+│   ├── Login
+│   ├── Register
+│   └── About CHARUSAT
+│
+├── Login
+│   └── Dashboard
+│       │
+│       ├── Profile
+│       │   
+│       │
+│       ├── Attendance
+│       │  
+│       │
+│       ├── Assignment
+│       │   
+│       │
+│       ├── Course
+│       │  
+│       │
+│       ├── Result
+│       │   
+│       │
+│       └── Contact
+│
+└── Register
+    └── Create Account

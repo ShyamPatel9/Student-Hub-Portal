@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Home" id="3Pa4L_J_g6dbsmiH_wu-">
+    <mxGraphModel dx="2575" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hFX7mri9DidPF31I1rT7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student Hub Portal" vertex="1">
+          <mxGeometry height="40" width="300" x="845.199951171875" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="hFX7mri9DidPF31I1rT7-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WELCOME TO CHARUSAT" vertex="1">
+          <mxGeometry height="30" width="280" x="855.199951171875" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hFX7mri9DidPF31I1rT7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login Button" vertex="1">
+          <mxGeometry height="40" width="180" x="905.199951171875" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hFX7mri9DidPF31I1rT7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Register Link" vertex="1">
+          <mxGeometry height="20" width="160" x="915.199951171875" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hFX7mri9DidPF31I1rT7-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Footer" vertex="1">
+          <mxGeometry height="25" width="900" x="545.199951171875" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="hFX7mri9DidPF31I1rT7-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="580" width="1080" x="460" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
