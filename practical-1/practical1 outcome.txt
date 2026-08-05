@@ -1,0 +1,10 @@
+PRACTICAL - 1 outcome(what we learn or challenge face)
+
+In this practical we learn about different word of web development like wireframe , sitemap , requirement analysis.
+we also learn about different between git and GitHub.
+
+Wireframe is a blueprint of a web. We can imagine how our website will look.
+Sitemap is a workflow structure of whole website that how all pages are inter-connected.
+Requirement analysis is a expectation or we can say demand of client that what they need in a website.
+
+we also learn how to create a repository in GitHub and upload our work.
