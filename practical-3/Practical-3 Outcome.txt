@@ -1,0 +1,11 @@
+PRACTICAL - 3 outcome(what we learn or challenge face)
+
+IN this practical we learn about the CSS styling of webpages.
+
+we learn declaration type of css inline internal and external. here we use external css file and than link it to HTNL file.
+
+for image styling with size , position , repeating , gradient(opacity) etc..
+for header styling with font size , family , colour , alignment , letter-spacing etc..
+for footer styling with position , alignment , background-color , font-color , height adjustment , margin etc..
+for label and button styling colour , font-weight , spacing , margin , border , background-color , border-radius , padding , font-color , alignment , display , width , transition , opacity etc..
+we also learn about hover and active effect.
