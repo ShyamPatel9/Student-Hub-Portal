@@ -1,0 +1,9 @@
+PRACTICAL - 2 outcome(what we learn or challenge face)
+
+IN this practical we learn about the basics of HTML
+
+we learn the basic tag used in HTML.
+Tags like html , head , body are used for formatting.
+and all other tag like a , p , header(h1 to h6), footer , title , form , label , input (checkbox , email , password , radio , text  ,submit , reset) , table , pre , hr , br , select and option(dropdown menu) , image and video tags etc..
+
+HTML is used for proper structure of wepages. further we can add css to style webpages and make it attractive.
