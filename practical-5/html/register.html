@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/style.css">
+
+    <title>STUDENT_HUB</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Student Hub Portal</h1>
+        <hr>
+    </header>
+
+
+    <form id="registrationForm" action="../index.html">
+
+        <!-- Name -->
+        <label class="label" for="username">Full Name</label><br>
+
+        <input
+            class="button" 
+            type="text"
+            id="username"
+            name="username"
+            placeholder="Enter your full name"
+            required
+        >
+
+        <br><br>
+
+        <!-- Gender -->
+        <label class="label">Gender</label><br>
+
+        <input
+            type="radio"
+            id="male"
+            name="gender"
+            value="Male"
+            required
+        >
+
+        <label for="male">Male</label>
+
+
+        <input
+            type="radio"
+            id="female"
+            name="gender"
+            value="Female"
+        >
+
+        <label for="female">Female</label>
+
+
+        <input
+            type="radio"
+            id="other"
+            name="gender"
+            value="Other"
+        >
+
+        <label for="other">Other</label>
+
+        <br><br>
+
+
+        <!-- Date of Birth -->
+        <label class="label" for="dob">Date of Birth</label><br>
+
+        <input
+            class="button"
+            type="date"
+            id="dob"
+            name="dob"
+            required
+        >
+
+        <br><br>
+
+
+        <!-- Email -->
+        <label class="label" for="email">Email</label><br>
+
+        <input
+            class="button"
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+            required
+        >
+
+        <br><br>
+
+
+        <!-- Mobile -->
+        <label class="label" for="mobile">Mobile Number</label><br>
+
+        <input
+            class="button"
+            type="tel"
+            id="mobile"
+            name="mobile"
+            placeholder="Enter 10 digit mobile number"
+            required
+        >
+
+        <br>
+
+        <span id="mobileError" class="error"></span>
+
+        <br><br>
+
+
+        <!-- Course -->
+        <label class="label" for="course">Course</label><br>
+
+        <select class="button" id="course" name="course" required>
+
+            <option value="">Select Course</option>
+            <option value="CE">Computer Engineering</option>
+            <option value="IT">Information Technology</option>
+            <option value="CSE">Computer Science Engineering</option>
+            <option value="EC">Electronics Engineering</option>
+
+        </select>
+
+        <br><br>
+
+
+        <!-- Year -->
+        <label class="label" for="year">Year</label><br>
+
+        <select class="button" id="year" name="year" required>
+
+            <option value="">Select Year</option>
+            <option value="1">1st Year</option>
+            <option value="2">2nd Year</option>
+            <option value="3">3rd Year</option>
+            <option value="4">4th Year</option>
+
+        </select>
+
+        <br><br>
+
+
+        <!-- Password -->
+        <label class="label" for="pass">Set Password</label><br>
+
+        <input
+            class="button"
+            type="password"
+            id="pass"
+            name="pass"
+            placeholder="Enter password here"
+            required
+        >
+
+        <br>
+
+        <span id="passError" class="error"></span>
+
+        <br><br>
+
+
+        <!-- Confirm Password -->
+        <label class="label" for="confirmPass">Re-enter Password</label><br>
+
+        <input
+            class="button"
+            type="password"
+            id="confirmPass"
+            name="confirmPass"
+            placeholder="Re-enter password here"
+            required
+        >
+
+        <br>
+
+        <span id="confirmPassError" class="error"></span>
+
+
+        <br><br>
+
+
+        <!-- Buttons -->
+        <input
+            type="submit"
+            value="Submit"
+            class="regbutton"
+        >
+
+        <input
+            type="reset"
+            value="Clear"
+            class="button"
+        >
+
+    </form>
+
+
+    <!-- Back Button -->
+    <form action="../index.html">
+
+        <br>
+
+        <input
+            type="submit"
+            value="Back"
+            class="button"
+        >
+
+    </form>
+
+
+    <footer>
+        <h2>@2026 Student portal</h2>
+    </footer>
+
+
+    <script src="../js/script.js"></script>
+
+</body>
+
+</html>
