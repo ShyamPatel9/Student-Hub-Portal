@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Shyam",
+        "rollNo": "25DCE043",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "marks": 80
+    },
+    {
+        "id": 2,
+        "name": "Yash",
+        "rollNo": "25DCE053",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "marks": 50
+    },
+    {
+        "id": 3,
+        "name": "Yash",
+        "rollNo": "25DCE054",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "marks": 40
+    },
+    {
+        "id": 4,
+        "name": "Aniket",
+        "rollNo": "25DCE003",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "marks": 40
+    },
+    {
+        "id": 3,
+        "name": "Rushi",
+        "rollNo": "25DCE002",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "marks": 30
+    }
+]
